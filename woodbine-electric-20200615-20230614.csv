@@ -1,6 +1,5 @@
 ,,,,,,,
-,Read Date,"Usage
-(kWh)",Number of Days,Usage Per Day,Cost Per Day,Total Charge,Average Temp(°F)
+,read-date,usage,Number of Days,Usage Per Day,Cost Per Day,Total Charge,Average Temp(°F)
 ,06/14/2023,504,31,16.26,$2.35,$172.61,62.0
 ,05/14/2023,912,30,30.4,$3.99,$300.21,55.0
 ,04/14/2023,1935,31,62.42,$7.66,$620.12,46.0
